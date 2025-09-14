@@ -54,9 +54,14 @@ Each module is organized separately, featuring **graded labs** and **notes** for
 3. Open the notebooks in your **Jupyter environment** to run and practice.  
 4. Refer to the **PDF notes** alongside each module for guided explanations.
 
+   ---
+## 🔗 Connect & Feedback If this repository is helpful, feel free to ⭐ it or share your feedback! Happy learning & exploring data! 🚀
+
 ```bash
 git clone https://github.com/SaraArif6198/Python-for-data-analytics-.git
 
 
----
-## 🔗 Connect & Feedback If this repository is helpful, feel free to ⭐ it or share your feedback! Happy learning & exploring data! 🚀
+
+
+
+
