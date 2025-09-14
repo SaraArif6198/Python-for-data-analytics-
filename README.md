@@ -5,13 +5,14 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 Welcome! 🎓 This repository contains **graded labs and notes** from the **“Python for Data Analytics”** course by **DeepLearning.AI (Coursera)**.  
-Each module is organized separately, featuring **graded labs** and **notes** for hands-on practice with real datasets.
+Each module is organized separately, featuring **graded labs**, **notes**, and **module outlines** for hands-on practice with real datasets.
 
 ---
 
 ## 📚 Modules Overview
 
 ### Module 1 – Programming Fundamentals
+![Module 1 Outline](https://github.com/SaraArif6198/Python-for-data-analytics-/blob/main/Outline/mod%201%20outline.png?raw=true)  
 - **Graded Lab:** Core Python & Jupyter workflows (ZIP)  
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-red)](https://github.com/SaraArif6198/Python-for-data-analytics-/tree/main/Module%201/Graded%20lab)  
 - **Notes:** [Module 1 Notes (PDF)](https://github.com/SaraArif6198/Python-for-data-analytics-/blob/main/Module%201/Module%201%20notes/C3_M1.pdf)
@@ -19,6 +20,7 @@ Each module is organized separately, featuring **graded labs** and **notes** for
 ---
 
 ### Module 2 – Data Structures & Descriptive Statistics
+![Module 2 Outline](https://github.com/SaraArif6198/Python-for-data-analytics-/blob/main/Outline/mod%202%20outline.png?raw=true)  
 - **Graded Lab:** pandas, filtering, sorting, descriptive statistics (ZIP)  
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-red)](https://github.com/SaraArif6198/Python-for-data-analytics-/tree/main/Module%202/graded%20lab)  
 - **Notes:** [Module 2 Notes](https://github.com/SaraArif6198/Python-for-data-analytics-/tree/main/Module%202/Module%202%20notes)
@@ -26,6 +28,7 @@ Each module is organized separately, featuring **graded labs** and **notes** for
 ---
 
 ### Module 3 – Data Visualization
+![Module 3 Outline](https://github.com/SaraArif6198/Python-for-data-analytics-/blob/main/Outline/mod%203%20outline.png?raw=true)  
 - **Graded Lab:** Matplotlib & Seaborn plotting (ZIP)  
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-red)](https://github.com/SaraArif6198/Python-for-data-analytics-/tree/main/module%203/graded%20lab)  
 - **Notes:** [Module 3 Notes](https://github.com/SaraArif6198/Python-for-data-analytics-/tree/main/module%203/Module%203%20notes)
@@ -33,6 +36,7 @@ Each module is organized separately, featuring **graded labs** and **notes** for
 ---
 
 ### Module 4 – Inferential Statistics & Regression
+![Module 4 Outline](https://github.com/SaraArif6198/Python-for-data-analytics-/blob/main/Outline/mod%204%20outline%20.png?raw=true)  
 - **Graded Lab:** Confidence intervals, regression, hypothesis testing (ZIP)  
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-red)](https://github.com/SaraArif6198/Python-for-data-analytics-/tree/main/module%204/graded%20lab)  
 - **Notes:** [Module 4 Notes](https://github.com/SaraArif6198/Python-for-data-analytics-/tree/main/module%204/Module%204%20notes)
@@ -40,6 +44,7 @@ Each module is organized separately, featuring **graded labs** and **notes** for
 ---
 
 ### Module 5 – Time Series & Capstone
+![Module 5 Outline](https://github.com/SaraArif6198/Python-for-data-analytics-/blob/main/Outline/mod%205%20outline%20.png?raw=true)  
 - **Graded Lab 1:** Capstone Lab (ZIP)  
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-red)](https://github.com/SaraArif6198/Python-for-data-analytics-/tree/main/module%205/capstone%20lab)  
 - **Graded Lab 2:** Module Lab (ZIP)  
@@ -53,9 +58,6 @@ Each module is organized separately, featuring **graded labs** and **notes** for
 2. Extract the ZIP file in your local directory.  
 3. Open the notebooks in your **Jupyter environment** to run and practice.  
 4. Refer to the **PDF notes** alongside each module for guided explanations.
-
-   ---
-## 🔗 Connect & Feedback If this repository is helpful, feel free to ⭐ it or share your feedback! Happy learning & exploring data! 🚀
 
 ```bash
 git clone https://github.com/SaraArif6198/Python-for-data-analytics-.git
