@@ -59,5 +59,10 @@ Each module is organized separately, featuring **graded labs**, **notes**, and *
 3. Open the notebooks in your **Jupyter environment** to run and practice.  
 4. Refer to the **PDF notes** alongside each module for guided explanations.
 
+## 👩‍💻 Author
+**Sara Arif**  
+🎓 Computer Science Student  
+🔗 [GitHub](https://github.com/SaraArif6198) | [LinkedIn](https://www.linkedin.com/in/sara-arif-7922642b8/)
+
 ```bash
 git clone https://github.com/SaraArif6198/Python-for-data-analytics-.git
