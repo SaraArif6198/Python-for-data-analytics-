@@ -12,7 +12,7 @@ You can view **Jupyter notebooks directly on GitHub** by clicking the badges.
 ### Module 1 – Programming Fundamentals
 - **Graded Lab:** Core Python & Jupyter workflows  
 [![View Notebook](https://img.shields.io/badge/View-Notebook-blue)](https://github.com/SaraArif6198/Python-for-data-analytics-/tree/main/Module%201/Graded%20lab)  
-- **Notes:** [PDF Notes](https://github.com/SaraArif6198/Python-for-data-analytics-/blob/main/Module%201/Module%201%20notes/C3_M1.pdf)
+- **Notes:** [Notes](https://github.com/SaraArif6198/Python-for-data-analytics-/blob/main/Module%201/Module%201%20notes/C3_M1.pdf)
 
 ---
 
