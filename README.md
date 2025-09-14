@@ -32,6 +32,7 @@ Each module is organized separately, featuring **graded labs**, **notes**, and *
 - **Graded Lab:** Matplotlib & Seaborn plotting (ZIP)  
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-red)](https://github.com/SaraArif6198/Python-for-data-analytics-/tree/main/module%203/graded%20lab)  
 - **Notes:** [Module 3 Notes](https://github.com/SaraArif6198/Python-for-data-analytics-/tree/main/module%203/Module%203%20notes)
+- **Resource:** [Matplotlib Cheat Sheet](https://matplotlib.org/cheatsheets/_images/cheatsheets-1.png)
 
 ---
 
@@ -58,6 +59,7 @@ Each module is organized separately, featuring **graded labs**, **notes**, and *
 2. Extract the ZIP file in your local directory.  
 3. Open the notebooks in your **Jupyter environment** to run and practice.  
 4. Refer to the **PDF notes** alongside each module for guided explanations.
+5. Use the Matplotlib Cheat Sheet link to help with plotting exercises.
 
 ## 👩‍💻 Author
 **Sara Arif**  
